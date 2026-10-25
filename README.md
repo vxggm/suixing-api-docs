@@ -3,6 +3,8 @@
 > 兼容 OpenAI 协议的大模型 API 网关，把 DeepSeek 等模型的调用统一成一个标准接口。
 > 一个 Key 通用，改一个 `base_url` 就能接入。
 
+**English**: [README.en.md](README.en.md)
+
 **官网**：https://www.ns666.cfd
 **控制台**：https://api.ns666.cfd
 **文档**：https://blog.ns666.cfd
